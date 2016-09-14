@@ -1,0 +1,3 @@
+/Users/Gabriel/Desktop/Cola/build/CMakeFiles/Cola.dir
+/Users/Gabriel/Desktop/Cola/build/CMakeFiles/edit_cache.dir
+/Users/Gabriel/Desktop/Cola/build/CMakeFiles/rebuild_cache.dir

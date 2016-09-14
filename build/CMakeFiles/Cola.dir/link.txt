@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Cola.dir/src/Nodo.cpp.o CMakeFiles/Cola.dir/src/main.cpp.o CMakeFiles/Cola.dir/src/Cola.cpp.o  -o Cola  
